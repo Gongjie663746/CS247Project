@@ -10,3 +10,6 @@ Data processing pipeline:
 Model training: 
 1. Run `LightGCN.ipynb` to run the baseline model. 
 2. Run `LightGCN_with_text_embed_init.ipynb` to run the model with text_embedding initialization. 
+3. Run `LightGCN_with_clustering.ipynb` to run the model with clustering data. 
+
+To change directory of training and testing data, go to `dataloader.py` block to change the directories. 
