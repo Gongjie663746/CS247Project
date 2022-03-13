@@ -16,4 +16,5 @@ Model training:
 
 Tips: 
 To change directory of training and testing data, go to `dataloader.py` block to change the directories. \
-Note that the test batch needs to be not more than 1/10 of the user. It can be set in the Parsing block
+Note that the test batch needs to be not more than 1/10 of the user. It can be set in the Parsing block. \
+Note that some dependencies requires you to restart the runtime to be funtioning. Make sure all the code block and dependencies are loaded when you run. 
