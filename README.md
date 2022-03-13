@@ -1,4 +1,6 @@
 # CS247Project
+Linke to the meme tracker dataset:
+http://snap.stanford.edu/memetracker/
 
 Data processing pipeline: 
 1. run `data_extraction.ipynb` to extract dataframe from raw data. 
