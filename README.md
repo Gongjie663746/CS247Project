@@ -1,5 +1,5 @@
 # CS247Project
-Link to the meme tracker dataset:
+Link to the MemeTracker dataset:
 http://snap.stanford.edu/memetracker/
 
 Data processing pipeline: 
