@@ -14,4 +14,6 @@ Model training:
 2. Run `LightGCN_with_text_embed_init.ipynb` to run the model with text_embedding initialization. 
 3. Run `LightGCN_with_clustering.ipynb` to run the model with clustering data. 
 
+Tips: 
 To change directory of training and testing data, go to `dataloader.py` block to change the directories. 
+Note that the test batch needs to be not more than 1/10 of the user. It can be set in the Parsing block
