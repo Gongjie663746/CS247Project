@@ -15,5 +15,5 @@ Model training:
 3. Run `LightGCN_with_clustering.ipynb` to run the model with clustering data. 
 
 Tips: 
-To change directory of training and testing data, go to `dataloader.py` block to change the directories. 
+To change directory of training and testing data, go to `dataloader.py` block to change the directories. \
 Note that the test batch needs to be not more than 1/10 of the user. It can be set in the Parsing block
